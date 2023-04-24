@@ -6,7 +6,7 @@ A helper for launching MSYS2 shells.  Features blink-less launching and correct 
 Installation
 ------------
 
-Just `make` and put the .exe and .ini files inside your MSYS2 root.  Needs mintty v2.1.6 or newer.
+Just `make` and put the .exe and .ini files inside your MSYS2 root.  Needs mintty v2.1.6 or newer...
 
 Configuration
 -------------
